@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 </ul>
 
 <p></a><br/>Currently, the weather is: <b> 28°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:30</b> and sets at <b>19:20</b>.</p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=David1X)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/David1X/David1X" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
