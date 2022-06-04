@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm David, my research interests are deep reinforcement learning, time series forecasting, and robotics-related.</b>. </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! 🎉🎉🎉 </br> I'm David, my research interests are deep reinforcement learning, time series forecasting, and robotics-related</b>. </p>
+<h3>🚀 Things I code with</h3>
 <p>
+  <img alt="python" src="https://img.shields.io/badge/-python-green" />
+  <img alt="c++" src="https://img.shields.io/badge/-c%2B%2B-orange" />
+  <img alt="shell" src="https://img.shields.io/badge/-shell-yellow" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -47,14 +50,15 @@ Here are some ideas to get you started:
 	
 <!--     </tr> -->
 <!--   </tbody> -->
-<!-- </table> --> -->
-<h3>My latest posts</h3>
+<!-- </table> -->
+<h3>🌐 My latest posts</h3>
 <!-- <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
 </ul> -->
 
-### 💻 GitHub Profile Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David1X&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔖 GitHub Profile Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David1X&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David1X&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ### ⚡ Recent GitHub Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=David1X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
