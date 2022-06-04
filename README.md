@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm David, my research interests are deep reinforcement learning, time series forecasting related</b>. </p>
+<p>Welcome to my page! </br> I'm David, my research interests are deep reinforcement learning, time series forecasting, and robotics-related.</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
