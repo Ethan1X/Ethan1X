@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### 🔖 GitHub Profile Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David1X&count_private=true&theme=radical&show_icons=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David1X&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### ⚡ Recent GitHub Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=David1X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
