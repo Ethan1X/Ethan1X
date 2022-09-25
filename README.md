@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 </ul> -->
 
 ### 🔖 GitHub Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David1X&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David1X&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David1X&count_private=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David1X&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ### ⚡ Recent GitHub Activity
