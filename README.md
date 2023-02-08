@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 </ul> -->
 
 ### 🔖 GitHub Profile Stats
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David1X&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David1X&show_icons=true&theme=radical&count_private=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan1X&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan1X&show_icons=true&theme=radical&count_private=true)
 
 ### ⚡ Recent GitHub Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ethan1X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
