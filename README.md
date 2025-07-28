@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img alt="python" src="https://img.shields.io/badge/-python-green" />
   <img alt="c++" src="https://img.shields.io/badge/-c%2B%2B-orange" />
   <img alt="go" src="https://img.shields.io/badge/-go-green" />
-  <img alt="rust" src="https://img.shields.io/badge/-rust-green" />
+  <img alt="rust" src="https://img.shields.io/badge/-rust-orange" />
   <img alt="shell" src="https://img.shields.io/badge/-shell-yellow" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
